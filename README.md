@@ -7,7 +7,8 @@
 1.一名自2019年退游自学计算机开发的00后程序员，曾经是疯狂沉迷游戏的网瘾少年，网吧三和大神，当前做计算机全栈开发<br>
 2.是计算机CV（复制粘贴）和CV（游戏人物后期配音，会8-10种声线，分别是萝莉，御姐，少女，少男，正太，派大星，瑶瑶，东方曜等）工程师
 星座♈<br>
-github地址 <a href="https://github.com/yxj200229">Github</a>
+github地址 <a href="https://github.com/yxj200229">Github</a><br>
+bilbili地址 <a href="https://space.bilibili.com/3493274991986808?spm_id_from=333.1007.0.0)">bilbili</a>
 #
 技术栈合集
 <br>
