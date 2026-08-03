@@ -19,6 +19,55 @@
 <br>
 ·基于Electron框架的游戏客户端/游戏加速器开发，底层为node.js和Chrome
 #
+术语合集
+<br>
+云解析DNS
+<br>
+A记录
+<br>
+TXT记录
+<br>
+二级域名
+<br>
+CDN
+<br>
+PCDN
+<br>
+DCDN
+<br>
+CN2回国
+<br>
+逆向工程
+<br>
+图片懒加载
+<br>
+XHR DOM
+<br>
+404not found 502bad
+<br>
+cnime
+<br>
+泛域名
+<br>
+SEO优化
+<br>
+爬虫解析
+<br>
+POST返回
+<br>
+时间戳
+<br>
+Lumen
+<br>
+Native
+<br>
+Nits Lux
+<br>
+虚幻5 - “当很多非Navtive工作流时溢出，就会显示此提示”
+<br>
+“index” HDRP中光照值过多，请减少光照以减少CPU性能开销 drow call数量增多
+<br>
+“该模型和插件需要使用SM6，请在设置中启动基于DX12的 SM6启动项”
 个人作品集
 <br>
 1.前端开发 2019-至今
