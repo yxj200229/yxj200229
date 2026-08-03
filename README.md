@@ -100,6 +100,12 @@ create wieght
 add viewport
 <br>
 yaw/pitch/roll  Axei t2方向
+<br>
+slot 缓存动画 蒙太奇动画插值
+<br>
+float double int public var privte [Header("主角设置")]
+<br>
+#game .game:hover{transition:0.5s;} .game .link:[:after]:before{} .game first-child:{}
 #
 个人作品集
 <br>
