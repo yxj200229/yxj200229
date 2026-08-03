@@ -1,42 +1,4 @@
-<div align="center" style="position: relative; width: 100%; max-width: 1440px; margin: 0 auto; overflow: hidden; border-radius: 16px;">
-  https://github.com/user-attachments/assets/4a80067e-a7fa-4709-b2ea-7bc7c8b01966
-
-
-
-  <!-- ====== 悬浮的四个旋转正方形图标 ====== -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; height: 100%; pointer-events: none;">
-
-    <!-- 图标 1：左上 -->
-    <div style="position: absolute; top: 10%; left: 8%; transform: rotate(-45deg); width: 80px; height: 80px; background: rgba(255, 255, 255, 0.85); border-radius: 8px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; pointer-events: auto;">
-      <span style="transform: rotate(45deg); font-size: 36px;">🎮</span>
-      <!-- 右上角人物 PNG -->
-      <img src="https://github.com/user-attachments/assets/026cdc34-c3c2-4fb5-9a32-f31ec68ed958" 
-           style="position: absolute; top: -20px; right: -20px; width: 40px; height: 40px; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.3); object-fit: cover; transform: rotate(45deg);">
-    </div>
-
-    <!-- 图标 2：右上 -->
-    <div style="position: absolute; top: 10%; right: 8%; transform: rotate(-45deg); width: 80px; height: 80px; background: rgba(255, 255, 255, 0.85); border-radius: 8px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; pointer-events: auto;">
-      <span style="transform: rotate(45deg); font-size: 36px;">💻</span>
-      <img src="https://github.com/user-attachments/assets/026cdc34-c3c2-4fb5-9a32-f31ec68ed958" 
-           style="position: absolute; top: -20px; right: -20px; width: 40px; height: 40px; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.3); object-fit: cover; transform: rotate(45deg);">
-    </div>
-
-    <!-- 图标 3：左下 -->
-    <div style="position: absolute; bottom: 10%; left: 8%; transform: rotate(-45deg); width: 80px; height: 80px; background: rgba(255, 255, 255, 0.85); border-radius: 8px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; pointer-events: auto;">
-      <span style="transform: rotate(45deg); font-size: 36px;">⚡</span>
-      <img src="https://github.com/user-attachments/assets/026cdc34-c3c2-4fb5-9a32-f31ec68ed958" 
-           style="position: absolute; top: -20px; right: -20px; width: 40px; height: 40px; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.3); object-fit: cover; transform: rotate(45deg);">
-    </div>
-
-    <!-- 图标 4：右下 -->
-    <div style="position: absolute; bottom: 10%; right: 8%; transform: rotate(-45deg); width: 80px; height: 80px; background: rgba(255, 255, 255, 0.85); border-radius: 8px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; pointer-events: auto;">
-      <span style="transform: rotate(45deg); font-size: 36px;">🌐</span>
-      <img src="https://github.com/user-attachments/assets/026cdc34-c3c2-4fb5-9a32-f31ec68ed958" 
-           style="position: absolute; top: -20px; right: -20px; width: 40px; height: 40px; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.3); object-fit: cover; transform: rotate(45deg);">
-    </div>
-
-  </div>
-</div>
+<img width="1211" height="915" alt="R" src="https://github.com/user-attachments/assets/1bd18c05-0e8d-47ff-90db-debee1cec547" width="100%"/>
 
 <br>
 
