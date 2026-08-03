@@ -181,7 +181,7 @@ enha 增强输入 情景映射 输入操作 混合空间1D
 #
 <div align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/你的用户名/你的用户名/main/你的图片文件名.png" width="100%">
+  <img width="1440" height="810" alt="v2-56ff29d54faa6394ea8c35cedf0f733c_1440w" src="https://github.com/user-attachments/assets/5ef9e720-0c1c-475c-9b53-e346f307bce3" width="100%"/>
   <br>
   <br>
   <h2 style="text-algin:center;">
@@ -210,10 +210,10 @@ function onclick(){ window.open('中华人民共和国万岁,中华儿女万岁.
   <b>❤️ 感谢访问 · 欢迎交流 ❤️</b>
   <br>
   <br>
-  <a href="https://github.com/你的用户名">
+  <a href="https://github.com/yxj200229">
     <img src="https://img.shields.io/badge/GitHub-你的用户名-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="mailto:你的邮箱@example.com">
+  <a href="mailto:你的邮箱1638480909@qq.com">
     <img src="https://img.shields.io/badge/Email-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <br>
