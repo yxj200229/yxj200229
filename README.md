@@ -1,5 +1,6 @@
 <img width="1211" height="915" alt="R" src="https://github.com/user-attachments/assets/026cdc34-c3c2-4fb5-9a32-f31ec68ed958" /> 
-# 1.0000
+# 使用基于Electron框架自研开发的游戏客户端，底层为Node.js和Chrome
+
 
 console.log('is 心鸢尾!');
 
