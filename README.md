@@ -211,7 +211,7 @@ function onclick(){ window.open('中华人民共和国万岁,中华儿女万岁.
   <br>
   <br>
   <a href="https://github.com/yxj200229">
-    <img src="https://img.shields.io/badge/GitHub-你的用户名-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-yxj200229-181717?style=for-the-badge&logo=github">
   </a>
   <a href="mailto:你的邮箱1638480909@qq.com">
     <img src="https://img.shields.io/badge/Email-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white">
