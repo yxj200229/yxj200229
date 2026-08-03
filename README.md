@@ -1,16 +1,7 @@
 <div align="center" style="position: relative; width: 100%; max-width: 1440px; margin: 0 auto; overflow: hidden; border-radius: 16px;">
+  https://github.com/user-attachments/assets/4a80067e-a7fa-4709-b2ea-7bc7c8b01966
 
-  <!-- ====== 视频背景 ====== -->
-  <video 
-    autoplay 
-    muted 
-    loop 
-    playsinline 
-    style="width: 100%; display: block; border-radius: 16px;"
-  >
-    <source src="你的视频链接.mp4" type="video/mp4">
-    您的浏览器不支持视频播放。
-  </video>
+
 
   <!-- ====== 悬浮的四个旋转正方形图标 ====== -->
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; height: 100%; pointer-events: none;">
