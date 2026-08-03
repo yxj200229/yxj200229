@@ -178,6 +178,27 @@ enha 增强输入 情景映射 输入操作 混合空间1D
 <br>
 <img width="1920" height="1040" alt="1739968040844" src="https://github.com/user-attachments/assets/64ee45c4-902f-4584-bc70-a1e53adbb9fe" />
 
+
+<div align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/你的用户名/你的用户名/main/你的图片文件名.png" width="100%">
+  <br>
+  <br>
+  <b>❤️ 感谢访问 · 欢迎交流 ❤️</b>
+  <br>
+  <br>
+  <a href="https://github.com/你的用户名">
+    <img src="https://img.shields.io/badge/GitHub-你的用户名-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:你的邮箱@example.com">
+    <img src="https://img.shields.io/badge/Email-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <br>
+  <br>
+  <sub>© 2026 心鸢尾的志愿风信子 · 用 ❤️ 和 ☕ 驱动</sub>
+  <br>
+  <br>
+</div>
 console.log('is 心鸢尾!');
 
 printf("是 心鸢尾!");
