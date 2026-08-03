@@ -45,7 +45,7 @@ XHR DOM
 <br>
 404not found 502bad
 <br>
-cnime
+CANME
 <br>
 泛域名
 <br>
@@ -68,6 +68,28 @@ Nits Lux
 “index” HDRP中光照值过多，请减少光照以减少CPU性能开销 drow call数量增多
 <br>
 “该模型和插件需要使用SM6，请在设置中启动基于DX12的 SM6启动项”
+<br>
+间接距址
+<br>
+DDOS
+<br>
+哈希加密
+<br>
+MD5溢出
+<br>
+反汇编
+<br>
+安全组配置规则
+<br>
+浏览器关键词搜索权重
+<br>
+CC攻击
+<br>
+8843攻击
+<br>
+NAT网关/对象储存
+<br>
+css3媒体查询
 #
 个人作品集
 <br>
