@@ -18,6 +18,9 @@
 <br>
 1.前端开发 2019-至今
 <img width="1060" height="683" alt="Image_6468942245447" src="https://github.com/user-attachments/assets/82daa82c-af00-4636-a1fd-06f691f3b53d" />
+<br>
+<img width="1746" height="776" alt="Image_1191295735367325" src="https://github.com/user-attachments/assets/b8d19de3-4b00-4f95-bde5-c83869488f81" />
+
 
 
 
