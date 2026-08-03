@@ -108,6 +108,10 @@ float double int public var privte [Header("主角设置")]
 #game .game:hover{transition:0.5s;} .game .link:[:after]:before{} .game first-child:{}
 <br>
 Capsule charater rigibody mesh static
+<br>
+enha 增强输入 情景映射 输入操作 混合空间1D
+<br>
+否定  拌合输入轴值
 #
 个人作品集
 <br>
