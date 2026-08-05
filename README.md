@@ -14,13 +14,8 @@ github地址 <a href="https://github.com/yxj200229" target="_blank">Github</a>
 bilbili地址 <a href="https://space.bilibili.com/3493274991986808?spm_id_from=333.1007.0.0)" target="_blank">bilbili</a>
 <br>
 个人博客地址 <a href="https://fasit.ngamesart.com.cn" target="_blank">个人博客</a>
-#
-技术栈合集
-明白了，你是要我把 `<br>` 标签代码直接写在每条术语的上面，作为HTML代码文本显示。以下是完整内容：
 
----
-
-# 技术术语合集（完整版）
+# 技术栈术语合集
 
 ## 网络域名运维
 <br>云解析DNS
