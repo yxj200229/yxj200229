@@ -16,110 +16,219 @@ bilbili地址 <a href="https://space.bilibili.com/3493274991986808?spm_id_from=3
 个人博客地址 <a href="https://fasit.ngamesart.com.cn" target="_blank">个人博客</a>
 #
 技术栈合集
-<br>
-·游戏开发方面  unity3d 虚幻引擎5 正在魔改+自研的一款开源游戏引擎stride3d 使用c#和蓝图进行游戏开发
-<br>
-·前端开发 基础三件套 - Vue2/3  Jquery/Ajax/ts/java/php
-<br>
-·后端框架 Maven/spring boot/tomcat
-<br>
-·前端搭建服务器框架（主流） nginx/apache
-<br>
-·基于Electron框架的游戏客户端/游戏加速器开发，底层为node.js和Chrome
-#
-开发知识术语合集（部分） -
-<br>
-云解析DNS
-<br>
-A记录
-<br>
-TXT记录
-<br>
-二级域名
-<br>
-CDN
-<br>
-PCDN
-<br>
-DCDN
-<br>
-CN2回国
-<br>
-逆向工程
-<br>
-图片懒加载
-<br>
-XHR DOM
-<br>
-404not found 502bad
-<br>
-CANME
-<br>
-泛域名
-<br>
-SEO优化
-<br>
-爬虫解析
-<br>
-POST返回
-<br>
-时间戳
-<br>
-Lumen
-<br>
-Native
-<br>
-Nits Lux
-<br>
-虚幻5 - “当很多非Navtive工作流时溢出，就会显示此提示”
-<br>
-“index” HDRP中光照值过多，请减少光照以减少CPU性能开销 drow call数量增多
-<br>
-“该模型和插件需要使用SM6，请在设置中启动基于DX12的 SM6启动项”
-<br>
-间接距址
-<br>
-DDOS
-<br>
-哈希加密
-<br>
-MD5溢出
-<br>
-反汇编
-<br>
-安全组配置规则
-<br>
-浏览器关键词搜索权重
-<br>
-CC攻击
-<br>
-8843攻击
-<br>
-NAT网关/对象储存
-<br>
-css3媒体查询
-<br>
-Vector2/3向量坐标
-<br>
-break旋转拆分
-<br>
-create wieght
-<br>
-add viewport
-<br>
-yaw/pitch/roll  Axei t2方向
-<br>
-slot 缓存动画 蒙太奇动画插值
-<br>
-float double int public var privte [Header("主角设置")]
-<br>
-#game .game:hover{transition:0.5s;} .game .link:[:after]:before{} .game first-child:{}
-<br>
-Capsule charater rigibody mesh static
-<br>
-enha 增强输入 情景映射 输入操作 混合空间1D
-<br>
-否定  拌合输入轴值
+明白了，你是要我把 `<br>` 标签代码直接写在每条术语的上面，作为HTML代码文本显示。以下是完整内容：
+
+---
+
+# 技术术语合集（完整版）
+
+## 网络域名运维
+<br>云解析DNS
+<br>A记录
+<br>TXT记录
+<br>二级域名
+<br>CDN
+<br>PCDN
+<br>DCDN
+<br>CN2回国
+<br>泛域名
+<br>SEO优化
+<br>爬虫解析
+
+## 网络安全攻防
+<br>逆向工程
+<br>DDOS
+<br>CC攻击
+<br>8843攻击
+<br>哈希加密
+<br>MD5溢出
+<br>反汇编
+<br>安全组配置规则
+<br>浏览器关键词搜索权重
+<br>WAF防火墙
+<br>流量清洗
+<br>IP封禁
+<br>请求伪造CSRF
+<br>SQL注入
+<br>XSS跨站脚本
+<br>数据包抓包
+<br>端口扫描
+<br>暴力破解
+<br>令牌Token泄露
+<br>签名校验
+
+## Web前后端
+<br>图片懒加载
+<br>XHR DOM
+<br>404not found 502bad
+<br>CNAME
+<br>POST返回
+<br>时间戳
+<br>Lumen
+<br>Native
+<br>css3媒体查询
+<br>#game .game:hover{transition:0.5s;} .game .link:[:after]:before{} .game first-child:{}
+<br>RESTful API
+<br>AJAX
+<br>WebSocket
+<br>JSON序列化/反序列化
+<br>CORS跨域
+<br>Request请求头 Response响应体
+<br>GET / PUT / DELETE 请求
+<br>Vue/React组件
+<br>SSR服务端渲染
+<br>SPA单页应用
+<br>DOM树重排重绘
+<br>Cookie Session JWT令牌
+<br>防抖节流
+<br>路由重定向
+<br>代理转发
+<br>Nginx反向代理
+<br>静态资源打包
+<br>Tree‑Shaking
+<br>Polyfill
+<br>Http1.1 / Http2 / Http3
+
+## 数据库
+<br>MySQL
+<br>PostgreSQL
+<br>Redis缓存
+<br>MongoDB非关系库
+<br>SQL语句
+<br>索引Index
+<br>事务Transaction
+<br>回滚Rollback
+<br>主键、外键
+<br>分库分表
+<br>慢查询
+<br>ORM对象关系映射
+<br>数据库读写分离
+<br>数据备份快照
+<br>锁机制（行锁、表锁）
+
+## 服务器&云资源
+<br>NAT网关/对象储存
+<br>负载均衡SLB
+<br>容器Docker
+<br>K8s容器编排
+<br>虚拟机VM
+<br>SSH远程连接
+<br>端口映射
+<br>防火墙iptables
+<br>进程守护
+<br>内存OOM溢出
+<br>磁盘IO
+<br>带宽限流
+<br>日志轮转
+<br>服务器快照
+<br>私有网络VPC
+
+## 游戏引擎 & 游戏开发
+
+### 虚幻引擎 UE5
+<br>Nanite虚拟微多边形
+<br>Lumen全局光照
+<br>Virtual Shadow Map虚拟阴影
+<br>Niagara粒子系统
+<br>Material Instance材质实例
+<br>Render Target渲染目标
+<br>Level Sequence关卡序列
+<br>GameplayTag游戏标签
+<br>Blueprint蓝图
+<br>Delegate委托
+<br>UObject对象
+<br>Collision Preset碰撞预设
+<br>World Partition世界分区
+<br>GPU Lightmass烘焙光照
+<br>Async Loading异步资源加载
+<br>Pak资源打包
+<br>GC垃圾回收
+<br>“当很多非Navtive工作流时溢出，就会显示此提示”
+<br>“index” HDRP中光照值过多，请减少光照以减少CPU性能开销 drow call数量增多
+<br>“该模型和插件需要使用SM6，请在设置中启动基于DX12的 SM6启动项”
+<br>间接距址
+<br>Nits Lux
+<br>yaw/pitch/roll Axei t2方向
+<br>slot 缓存动画 蒙太奇动画插值
+<br>enha 增强输入 情景映射 输入操作 混合空间1D
+<br>否定 拌合输入轴值
+
+### Unity 3D / C#
+<br>MonoBehaviour生命周期
+<br>Update / FixedUpdate / LateUpdate
+<br>Layer层级、Tag标签
+<br>Prefab预制体
+<br>AssetBundle资源包
+<br>Addressable可寻址资源
+<br>URP/HDRP管线
+<br>NavMesh寻路
+<br>Animator状态机、BlendTree混合树
+<br>Physics物理层
+<br>LayerMask层级掩码
+<br>Coroutine协程
+<br>ScriptableObject数据容器
+<br>IL2CPP编译
+<br>Mono垃圾回收
+<br>Vector2/3向量坐标
+<br>break旋转拆分
+<br>create wieght
+<br>add viewport
+<br>float double int public var private [Header("主角设置")]
+<br>Capsule character rigidbody mesh static
+<br>间接距址
+
+### Stride3D 开源引擎
+<br>基于C#和蓝图进行游戏开发
+<br>魔改+自研开源游戏引擎
+
+## 图形渲染 & 性能优化
+<br>DrawCall批处理
+<br>Instancing实例化
+<br>LOD细节层级
+<br>Occlusion Culling遮挡剔除
+<br>Texture压缩格式
+<br>SRP批处理
+<br>Shader着色器
+<br>Vertex顶点 / Fragment片元
+<br>UV展开
+<br>Normal法线贴图
+<br>Metallic金属度
+<br>Roughness粗糙度
+<br>AlphaClip透明裁剪
+<br>MSAA多重抗锯齿
+<br>TAA时域抗锯齿
+<br>VRAM显存溢出
+<br>CPU‑GPU瓶颈
+<br>帧时间、FPS帧率
+<br>GPU Profiler性能分析器
+
+## 数学向量 & 动画
+<br>Vector2/3向量坐标
+<br>break旋转拆分
+<br>yaw/pitch/roll 轴向方向
+<br>slot 缓存动画
+<br>蒙太奇动画插值
+<br>混合空间1D
+<br>拌合输入轴值
+<br>create weight
+<br>add viewport
+
+## 脚本语法片段
+<br>float double int public var private
+<br>[Header("主角设置")]
+<br>Capsule character rigidbody mesh static
+<br>enha 增强输入 情景映射 输入操作
+<br>#game .game:hover{transition:0.5s;}
+<br>.game .link:[:after]:before{}
+<br>.game first-child:{}
+<br>否定 拌合输入轴值
+
+## 开发框架 & 技术栈
+<br>·游戏开发方面 unity3d 虚幻引擎5 正在魔改+自研的一款开源游戏引擎stride3d 使用c#和蓝图进行游戏开发
+<br>·前端开发 基础三件套 - Vue2/3 Jquery/Ajax/ts/java/php
+<br>·后端框架 Maven/spring boot/tomcat
+<br>·前端搭建服务器框架（主流） nginx/apache
+<br>·基于Electron框架的游戏客户端/游戏加速器开发，底层为node.js和Chrome
 #
 个人作品集
 <br>
