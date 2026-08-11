@@ -313,6 +313,7 @@ bilbili地址 <a href="https://space.bilibili.com/3493274991986808?spm_id_from=3
 #
   <img width="1440" height="810" alt="v2-56ff29d54faa6394ea8c35cedf0f733c_1440w" src="https://github.com/user-attachments/assets/5ef9e720-0c1c-475c-9b53-e346f307bce3" width="100%"/>
   <b>❤️ 感谢访问 · 欢迎交流 ❤️</b>
+  <b>QQ交流群 224821433</b>
   <br>
   <br>
   <a href="https://github.com/yxj200229">
