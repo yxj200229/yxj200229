@@ -1,5 +1,32 @@
 <img width="1211" height="915" alt="R" src="https://github.com/user-attachments/assets/1bd18c05-0e8d-47ff-90db-debee1cec547" width="100%"/>
+<div align="center">
+  <br>
+  <img width="1440" height="810" alt="v2-56ff29d54faa6394ea8c35cedf0f733c_1440w" src="https://github.com/user-attachments/assets/5ef9e720-0c1c-475c-9b53-e346f307bce3" width="100%"/>
+  <br>
+  <br>
+  <h2 style="text-algin:center;">
+    console.log('is 中华人民共和国万岁,世界人民大团结万岁!');
 
+printf("中华人民共和国万岁,世界人民大团结万岁!");
+
+sudo xinyuanwei!;
+
+echo'心中华人民共和国万岁,世界人民大团结万岁!';
+
+Debug.log('中华人民共和国万岁,世界人民大团结万岁!');
+
+innerHTML.text == "中华人民共和国万岁,世界人民大团结万岁!".display:'block';
+
+function onclick(){ window.open('中华人民共和国万岁,世界人民大团结万岁.php'); }
+
+·Become a girl, immersed in the ninth art world of code and games....
+
+·Crazy world, looking for more joy in the code world....
+
+·Press win+r on your keyboard, and then enter system.sqle....
+
+·朝着自己喜欢的道路始终前进 ·我的终生偶像是毛主席，艾跃进，谭乔，郑强，罗翔，冯骥，杨奇，毛星云，陈星汉，蔡浩宇，刘伟，罗宇浩，迈克尔杰克逊
+  </h2>
 <br>
 
 #
@@ -285,34 +312,7 @@ bilbili地址 <a href="https://space.bilibili.com/3493274991986808?spm_id_from=3
 <img width="1920" height="1040" alt="1739968040844" src="https://github.com/user-attachments/assets/64ee45c4-902f-4584-bc70-a1e53adbb9fe" />
 
 #
-<div align="center">
-  <br>
-  <img width="1440" height="810" alt="v2-56ff29d54faa6394ea8c35cedf0f733c_1440w" src="https://github.com/user-attachments/assets/5ef9e720-0c1c-475c-9b53-e346f307bce3" width="100%"/>
-  <br>
-  <br>
-  <h2 style="text-algin:center;">
-    console.log('is 中华人民共和国万岁,世界人民大团结万岁!');
 
-printf("中华人民共和国万岁,世界人民大团结万岁!");
-
-sudo xinyuanwei!;
-
-echo'心中华人民共和国万岁,世界人民大团结万岁!';
-
-Debug.log('中华人民共和国万岁,世界人民大团结万岁!');
-
-innerHTML.text == "中华人民共和国万岁,世界人民大团结万岁!".display:'block';
-
-function onclick(){ window.open('中华人民共和国万岁,世界人民大团结万岁.php'); }
-
-·Become a girl, immersed in the ninth art world of code and games....
-
-·Crazy world, looking for more joy in the code world....
-
-·Press win+r on your keyboard, and then enter system.sqle....
-
-·朝着自己喜欢的道路始终前进 ·我的终生偶像是毛主席，艾跃进，谭乔，郑强，罗翔，冯骥，杨奇，毛星云，陈星汉，蔡浩宇，刘伟，罗宇浩，迈克尔杰克逊
-  </h2>
   <b>❤️ 感谢访问 · 欢迎交流 ❤️</b>
   <br>
   <br>
