@@ -13,7 +13,7 @@ github地址 <a href="https://github.com/yxj200229" target="_blank">Github</a>
 <br>
 bilbili地址 <a href="https://space.bilibili.com/3493274991986808?spm_id_from=333.1007.0.0)" target="_blank">bilbili</a>
 <br>
-个人博客地址 <a href="https://fasit.ngamesart.com.cn" target="_blank">个人博客</a>
+个人博客地址 <a href="https://junao.asia" target="_blank">个人博客</a>
 
 # 技术栈术语合集
 
