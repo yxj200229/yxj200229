@@ -291,19 +291,19 @@ bilbili地址 <a href="https://space.bilibili.com/3493274991986808?spm_id_from=3
   <br>
   <br>
   <h2 style="text-algin:center;">
-    console.log('is 心鸢尾!');
+    console.log('is 中华人民共和国万岁,世界人民大团结万岁!');
 
-printf("是 心鸢尾!");
+printf("中华人民共和国万岁,世界人民大团结万岁!");
 
 sudo xinyuanwei!;
 
-echo'心鸢尾!';
+echo'心中华人民共和国万岁,世界人民大团结万岁!';
 
-Debug.log('心鸢尾!');
+Debug.log('中华人民共和国万岁,世界人民大团结万岁!');
 
-innerHTML.text == "心鸢尾!".display:'block';
+innerHTML.text == "中华人民共和国万岁,世界人民大团结万岁!".display:'block';
 
-function onclick(){ window.open('中华人民共和国万岁,中华儿女万岁.php'); }
+function onclick(){ window.open('中华人民共和国万岁,世界人民大团结万岁.php'); }
 
 ·Become a girl, immersed in the ninth art world of code and games....
 
